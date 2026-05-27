@@ -1,4 +1,4 @@
-# chicago-arts-education-analysis
+# Arts Education Equity in Chicago: A Data Analysis of Arts Access in Public Schools
 
 **1. Project Overview**
 This project analyzes how neighborhood-level socioeconomic factors (poverty rate, racial composition, linguistic diversity, and educational attainment) are associated with Creative Schools Certification (CSC) outcomes across Chicago ZIP codes.
